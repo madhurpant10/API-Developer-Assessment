@@ -1,8 +1,6 @@
 # API-Developer-Assessment
 SteelEye API Developer technical test
 
-Certainly! Here's a README file explaining the code for the Trade data REST API implemented using FastAPI:
-
 ## Trade Data API
 
 This API provides endpoints to retrieve a list of trades, fetch a single trade by ID, search for trades, and filter trades based on various criteria. It is built using the FastAPI framework in Python.
